@@ -14,15 +14,11 @@ The challenge of creating compelling piano melodies using deep learning techniqu
 To get started, follow these steps:
  - Clone the repository: 
  <pre>
- ```
  git clone https://github.com/DeepMelodyGen.git
- ```
  </pre>
  - Install the required dependencies: 
 <pre>
-```python
 pip install -r requirements.txt
-```
 </pre>
  - Explore the **notebooks/** directory to understand the experimentation process and analysis of the results.
  - Check the **models/** directory to explore the implementation of different deep learning models. - 
