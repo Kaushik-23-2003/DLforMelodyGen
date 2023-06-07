@@ -1,16 +1,16 @@
-# DLforMelodyGen
+# 🎵 DLforMelodyGen
 The project focusses on exploring and comparing deep learning models for monophonic piano melody generation. The aim of this project is to advance the field of music generation by investigating the effectiveness and performance of various deep learning architectures in generating expressive and coherent piano melodies.
 
-# Project Description
+# 📝 Project Description
 The challenge of creating compelling piano melodies using deep learning techniques. Through rigorous experimentation, we analyze the ability of different models to capture musical patterns, generate diverse melodic sequences, and produce melodies that exhibit musical coherence and stylistic consistency. To conduct our research, we curate a comprehensive dataset of monophonic piano melodies, covering a wide range of musical styles and genres.
 
-# Repository Structure
+# 📁 Repository Structure
  - **data/**: This directory contains the curated dataset of monophonic piano melodies used for training and evaluation.
  - **models/**: Here, you can find the implementation of various deep learning models for piano melody generation.
  - **notebooks/**: This directory contains Jupyter notebooks showcasing the experimentation process and analysis of the results.
  - **results/**: The output and evaluation results of the trained models are stored in this directory.
 
- # Getting Started
+ # 🚀 Getting Started
 To get started, follow these steps:
  - Clone the repository: 
  <pre>
