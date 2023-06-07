@@ -14,8 +14,28 @@ The challenge of creating compelling piano melodies using deep learning techniqu
 To get started, follow these steps:
  - Clone the repository: 
  <pre>
- git clone https://github.com/DeepMelodyGen.git
- </pre>
+<code>
+git clone https://github.com/DeepMelodyGen.git
+</code>
+</pre>
+
+<button id="copyButton">Copy</button>
+
+<script>
+const copyButton = document.getElementById('copyButton');
+const codeBlock = document.querySelector('code');
+
+copyButton.addEventListener('click', () => {
+  navigator.clipboard.writeText(codeBlock.innerText)
+    .then(() => {
+      console.log('Code copied to clipboard.');
+    })
+    .catch((error) => {
+      console.error('Failed to copy code to clipboard:', error);
+    });
+});
+</script>
+
  - Install the required dependencies: 
 <pre>
 pip install -r requirements.txt
