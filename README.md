@@ -31,4 +31,4 @@ pip install -r requirements.txt
  - Use the curated dataset in the **data/** directory to train and evaluate the models.
  - Examine the **results/** directory for the output and evaluation results.
 
-Happy music generation 
+**Happy music generation !!**
