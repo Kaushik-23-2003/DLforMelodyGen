@@ -19,46 +19,12 @@ git clone https://github.com/DeepMelodyGen.git
 </code>
 </pre>
 
-<button id="copyButton">Copy</button>
-
-<script>
-const copyButton = document.getElementById('copyButton');
-const codeBlock = document.querySelector('code');
-
-copyButton.addEventListener('click', () => {
-  navigator.clipboard.writeText(codeBlock.innerText)
-    .then(() => {
-      console.log('Code copied to clipboard.');
-    })
-    .catch((error) => {
-      console.error('Failed to copy code to clipboard:', error);
-    });
-});
-</script>
-
  - Install the required dependencies: 
 <pre>
 <code>
 pip install -r requirements.txt
 </code>
 </pre>
-
-<button id="copyButton">Copy</button>
-
-<script>
-const copyButton = document.getElementById('copyButton');
-const codeBlock = document.querySelector('code');
-
-copyButton.addEventListener('click', () => {
-  navigator.clipboard.writeText(codeBlock.innerText)
-    .then(() => {
-      console.log('Code copied to clipboard.');
-    })
-    .catch((error) => {
-      console.error('Failed to copy code to clipboard:', error);
-    });
-});
-</script>
 
  - Explore the **notebooks/** directory to understand the experimentation process and analysis of the results.
  - Check the **models/** directory to explore the implementation of different deep learning models. - 
