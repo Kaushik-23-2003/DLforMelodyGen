@@ -4,15 +4,15 @@ The project focusses on exploring and comparing deep learning models for monopho
 ## 📝 Project Description
 The challenge of creating compelling piano melodies using deep learning techniques. Through rigorous experimentation, we analyze the ability of different models to capture musical patterns, generate diverse melodic sequences, and produce melodies that exhibit musical coherence and stylistic consistency. To conduct our research, we curate a comprehensive dataset of monophonic piano melodies, covering a wide range of musical styles and genres.
 
-## 📁 Repository Structure
+## Repository Structure
 
-- 📂 **notebooks/**: Dive into the notebooks directory to understand the experimentation process and analyze the results.
+📂 **notebooks/**: Dive into the notebooks directory to understand the experimentation process and analyze the results.
 
-- 📂 **models/**: Check out the models directory to explore the implementation of different deep learning models.
+📂 **models/**: Check out the models directory to explore the implementation of different deep learning models.
 
-- 📂 **data/**: Utilize the curated dataset in the data directory to train and evaluate the models.
+📂 **data/**: Utilize the curated dataset in the data directory to train and evaluate the models.
 
-- 📂 **results/**: Examine the results directory for the output and evaluation results.
+📂 **results/**: Examine the results directory for the output and evaluation results.
 
 ## 🚀 Getting Started
 
