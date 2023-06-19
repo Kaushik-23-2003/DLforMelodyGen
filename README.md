@@ -14,11 +14,11 @@ The challenge of creating compelling piano melodies using deep learning techniqu
 
 To get started with DLforMelodyGen, follow these steps:
 
-1. **Clone the repository:**  
+1. **Clone the repository:**
 <pre>
-<code>
-git clone https://github.com/DeepMelodyGen.git
-</code>
+ <code>
+  git clone https://github.com/DeepMelodyGen.git
+ </code>
 </pre>
 
 2. **Install the required dependencies:**
@@ -29,11 +29,12 @@ git clone https://github.com/DeepMelodyGen.git
 </pre>
 
 3. Run the Jupyter notebook "melody-generation-dl.ipynb"
-   <pre>
-    <code>
-     jupyter notebook DLforMelodyGen/notebooks/melody-generation-dl.ipynb
-    </code>
-   </pre>
+<pre>
+ <code>
+  jupyter notebook DLforMelodyGen/notebooks/melody-generation-dl.ipynb
+ </code>
+</pre>
+
 4. **Explore the project:**
 
 - 📂 **notebooks/**: Dive into the notebooks directory to understand the experimentation process and analyze the results.
