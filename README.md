@@ -5,10 +5,14 @@ The project focusses on exploring and comparing deep learning models for monopho
 The challenge of creating compelling piano melodies using deep learning techniques. Through rigorous experimentation, we analyze the ability of different models to capture musical patterns, generate diverse melodic sequences, and produce melodies that exhibit musical coherence and stylistic consistency. To conduct our research, we curate a comprehensive dataset of monophonic piano melodies, covering a wide range of musical styles and genres.
 
 ## 📁 Repository Structure
- - **data/**: This directory contains the curated dataset of monophonic piano melodies used for training and evaluation.
- - **models/**: Here, you can find the implementation of various deep learning models for piano melody generation.
- - **notebooks/**: This directory contains Jupyter notebooks showcasing the experimentation process and analysis of the results.
- - **results/**: The output and evaluation results of the trained models are stored in this directory.
+
+- 📂 **notebooks/**: Dive into the notebooks directory to understand the experimentation process and analyze the results.
+
+- 📂 **models/**: Check out the models directory to explore the implementation of different deep learning models.
+
+- 📂 **data/**: Utilize the curated dataset in the data directory to train and evaluate the models.
+
+- 📂 **results/**: Examine the results directory for the output and evaluation results.
 
 ## 🚀 Getting Started
 
@@ -27,17 +31,6 @@ pip install -r requirements.txt
 ```
 jupyter notebook DLforMelodyGen/notebooks/melody-generation-dl.ipynb
 ```
-
-4. **Explore the project:**
-
-- 📂 **notebooks/**: Dive into the notebooks directory to understand the experimentation process and analyze the results.
-
-- 📂 **models/**: Check out the models directory to explore the implementation of different deep learning models.
-
-- 📂 **data/**: Utilize the curated dataset in the data directory to train and evaluate the models.
-
-- 📂 **results/**: Examine the results directory for the output and evaluation results.
-
 
 Now you're all set to explore the fascinating world of deep learning melody generation!
 
