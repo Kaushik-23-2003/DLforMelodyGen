@@ -1,4 +1,4 @@
-# 🎵 DLforMelodyGen
+## 🎵 DLforMelodyGen
 The project focusses on exploring and comparing deep learning models for monophonic piano melody generation. The aim of this project is to advance the field of music generation by investigating the effectiveness and performance of various deep learning architectures in generating expressive and coherent piano melodies.
 
 ## 📝 Project Description
@@ -15,25 +15,18 @@ The challenge of creating compelling piano melodies using deep learning techniqu
 To get started with DLforMelodyGen, follow these steps:
 
 1. **Clone the repository:**
-<pre>
- <code>
-  git clone https://github.com/DeepMelodyGen.git
- </code>
-</pre>
+```
+git clone https://github.com/DeepMelodyGen.git
+```
 
 2. **Install the required dependencies:**
-<pre>
- <code>
-  pip install -r requirements.txt
- </code>
-</pre>
-
+```
+pip install -r requirements.txt
+```
 3. Run the Jupyter notebook "melody-generation-dl.ipynb"
-<pre>
- <code>
-  jupyter notebook DLforMelodyGen/notebooks/melody-generation-dl.ipynb
- </code>
-</pre>
+```
+jupyter notebook DLforMelodyGen/notebooks/melody-generation-dl.ipynb
+```
 
 4. **Explore the project:**
 
